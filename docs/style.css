@@ -1,0 +1,14 @@
+
+#first {
+  width: 300px; 
+  border: 1px solid red; 
+  display: inline-block; 
+  float: left; 
+}
+#second {
+  width: 300px; 
+  border: 1px solid red;  
+  display: inline-block; 
+  float: right;
+  padding-right: 1000px; 
+}
