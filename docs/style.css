@@ -9,6 +9,24 @@
   width: 300px; 
   border: 1px solid red;  
   display: inline-block; 
+  float: center;
+  padding-right:px; 
+}
+#third {
+  width: 300px; 
+  border: 1px solid red; 
+  display: inline-block; 
+  float: left; 
+}
+#fourth {
+  width: 300px; 
+  border: 1px solid red; 
+  display: inline-block; 
   float: right;
-  padding-right: 1000px; 
+
+}
+# div2 {
+  width:300px; 
+  border: 1px solid black;
+  display: inline-block; 
 }
